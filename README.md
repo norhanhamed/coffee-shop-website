@@ -1,6 +1,6 @@
 
 Responsive Coffee Shop Landing Page (One-Page Website) built with HTML, CSS, and JavaScript.
-using (  swiper slider for testimonials library section ,   fontawesome for icons library ).
+using (  swiper slider for testimonials library section ,   fontawesome for icons library and Miniver google font).
 
 ## screenshots for responsive
 <p align="center">
