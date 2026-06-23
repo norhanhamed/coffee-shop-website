@@ -3,3 +3,5 @@ Responsive Coffee Shop Landing Page (One-Page Website) built with HTML, CSS, and
 using (  swiper slider for testimonials library section ,   fontawesome for icons library )
 <img src=" ../screenshots/res1.jpg" />
 ![Coffee Shop Screenshot](screenshots/res1.jpg)
+
+<img src="screenshots/res1.jpg" width="600" alt="Coffee Shop Screenshot">
